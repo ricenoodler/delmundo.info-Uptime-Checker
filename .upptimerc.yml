@@ -25,8 +25,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime 
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: All services are updated every 5 minutes.
+  introTitle: "**delmundo.info services status**"
+  introMessage: All services are updated **every 5 minutes.**
   navbar:
     - title: Status
       href: /

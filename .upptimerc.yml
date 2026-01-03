@@ -8,7 +8,7 @@ sites:
   - name: Immich
     url: https://immich.delmundo.info
   - name: Palworld Server
-    url: https://palworld.delmundo.info:8211
+    url: http://palworld.delmundo.info:3000/health
   #- name: IPv6 test
   #  port: 80
   #  check: "tcp-ping"

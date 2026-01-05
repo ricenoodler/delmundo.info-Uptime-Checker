@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/palworld.delmundo.info.ico",
     "slug": "palworld-server",
     "status": "down",
-    "uptime": "95.24%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.24%",
-    "uptimeMonth": "95.24%",
-    "uptimeYear": "95.24%",
+    "uptime": "90.37%",
+    "uptimeDay": "93.68%",
+    "uptimeWeek": "90.37%",
+    "uptimeMonth": "90.37%",
+    "uptimeYear": "90.37%",
     "time": 297,
     "timeDay": 301,
     "timeWeek": 297,
     "timeMonth": 297,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2026-01-04": 0,
+      "2026-01-05": 58,
+      "2026-01-04": 33,
       "2026-01-03": 80
     }
   }

@@ -11,6 +11,8 @@ sites:
     url: https://nextcloud.delmundo.info
   - name: Immich
     url: https://immich.delmundo.info
+  - name: Jellyfin
+    url: https://jellyfin.delmundo.info
   - name: Palworld Server
     url: http://palworld.delmundo.info:3000/health
 

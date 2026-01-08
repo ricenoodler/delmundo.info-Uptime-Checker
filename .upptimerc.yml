@@ -12,7 +12,7 @@ sites:
   - name: Immich
     url: https://immich.delmundo.info
   - name: Jellyfin
-    url: https://jellyfin.delmundo.info
+    url: https://tv.delmundo.info
   - name: Palworld Server
     url: http://palworld.delmundo.info:3000/health
 

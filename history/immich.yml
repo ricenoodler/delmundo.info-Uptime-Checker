@@ -1,7 +1,7 @@
 url: https://immich.delmundo.info
-status: up
-code: 200
-responseTime: 417
-lastUpdated: 2026-01-17T23:24:43.284Z
+status: down
+code: 403
+responseTime: 221
+lastUpdated: 2026-01-18T15:32:05.559Z
 startTime: 2026-01-03T19:22:03.135Z
 generator: Upptime <https://github.com/upptime/upptime>

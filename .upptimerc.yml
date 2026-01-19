@@ -15,6 +15,10 @@ sites:
     url: https://tv.delmundo.info
   - name: Palworld Server
     url: http://palworld.delmundo.info:3000/health
+  - name: fentlacedcart.delmundo.info
+    check: "tcp-ping"
+    url: fentlacedcart.delmundo.info
+    port: 25566
 
 status-website:
   cname: uptime.delmundo.info

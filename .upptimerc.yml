@@ -1,6 +1,7 @@
 # Change these first
 owner: ricenoodler # Your GitHub organization or username, where this repository lives
 repo: delmundo.info-Uptime-Checker # The name of this repository
+user-agent: Mozilla/5.0
 
 sites:
 #  - name: Server Host (Hardware / Network)

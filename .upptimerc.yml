@@ -10,7 +10,7 @@ sites:
   - name: NextCloud
     url: https://nextcloud.delmundo.info
   - name: Immich
-    url: https://immich.delmundo.info
+    url: https://immich.delmundo.info/api/server/ping
   - name: Jellyfin
     url: https://tv.delmundo.info
   - name: Palworld Server

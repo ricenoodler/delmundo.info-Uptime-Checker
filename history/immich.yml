@@ -1,7 +1,7 @@
 url: https://immich.delmundo.info/api/server/ping
-status: down
-code: 530
-responseTime: 277
-lastUpdated: 2026-01-22T23:28:20.425Z
+status: up
+code: 200
+responseTime: 228
+lastUpdated: 2026-01-23T02:25:05.560Z
 startTime: 2026-01-03T19:22:03.135Z
 generator: Upptime <https://github.com/upptime/upptime>

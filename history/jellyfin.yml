@@ -1,7 +1,7 @@
 url: https://tv.delmundo.info
-status: up
-code: 200
-responseTime: 364
-lastUpdated: 2026-01-31T23:29:06.328Z
+status: down
+code: 502
+responseTime: 444
+lastUpdated: 2026-02-01T06:29:09.262Z
 startTime: 2026-01-08T21:58:23.089Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -16,9 +16,9 @@ sites:
     url: https://tv.delmundo.info
   - name: Palworld Server
     url: http://palworld.delmundo.info:3000/health
-  - name: fentlacedcart.delmundo.info
+  - name: Samworld Minecraft Server
     check: "tcp-ping"
-    url: fentlacedcart.delmundo.info
+    url: samworld.delmundo.info
     port: 25566
 
 status-website:

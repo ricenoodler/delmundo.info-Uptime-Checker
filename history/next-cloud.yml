@@ -1,7 +1,7 @@
 url: https://nextcloud.delmundo.info
-status: down
-code: 502
-responseTime: 233
-lastUpdated: 2026-05-30T17:39:03.246Z
+status: up
+code: 200
+responseTime: 572
+lastUpdated: 2026-05-30T18:45:56.598Z
 startTime: 2026-01-03T19:22:02.378Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -70,11 +70,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tv.delmundo.info.ico",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "91.37%",
+    "uptime": "91.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.37%",
+    "uptimeYear": "91.38%",
     "time": 390,
     "timeDay": 577,
     "timeWeek": 585,
@@ -214,11 +214,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "samworld-minecraft-server",
     "status": "down",
-    "uptime": "98.40%",
-    "uptimeDay": "67.90%",
-    "uptimeWeek": "95.41%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "98.40%",
+    "uptime": "98.38%",
+    "uptimeDay": "65.81%",
+    "uptimeWeek": "95.12%",
+    "uptimeMonth": "95.79%",
+    "uptimeYear": "98.38%",
     "time": 63,
     "timeDay": 79,
     "timeWeek": 75,
@@ -231,7 +231,7 @@
       "2026-05-30": 985,
       "2026-05-29": 368,
       "2026-06-27": 462,
-      "2026-06-28": 0
+      "2026-06-28": 30
     }
   }
 ]

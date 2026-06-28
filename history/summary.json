@@ -116,11 +116,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/palworld.delmundo.info.ico",
     "slug": "palworld-server",
     "status": "up",
-    "uptime": "60.95%",
+    "uptime": "60.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "60.95%",
+    "uptimeYear": "60.99%",
     "time": 411,
     "timeDay": 179,
     "timeWeek": 245,
@@ -213,16 +213,16 @@
     "url": "samworld.delmundo.info",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "samworld-minecraft-server",
-    "status": "down",
-    "uptime": "98.38%",
-    "uptimeDay": "65.81%",
-    "uptimeWeek": "95.12%",
-    "uptimeMonth": "95.79%",
-    "uptimeYear": "98.38%",
+    "status": "up",
+    "uptime": "98.23%",
+    "uptimeDay": "50.93%",
+    "uptimeWeek": "92.84%",
+    "uptimeMonth": "95.26%",
+    "uptimeYear": "98.23%",
     "time": 63,
-    "timeDay": 79,
-    "timeWeek": 75,
-    "timeMonth": 68,
+    "timeDay": 69,
+    "timeWeek": 72,
+    "timeMonth": 67,
     "timeYear": 63,
     "dailyMinutesDown": {
       "2026-04-17": 148,
@@ -231,7 +231,7 @@
       "2026-05-30": 985,
       "2026-05-29": 368,
       "2026-06-27": 462,
-      "2026-06-28": 30
+      "2026-06-28": 260
     }
   }
 ]

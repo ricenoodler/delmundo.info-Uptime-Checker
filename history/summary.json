@@ -4,11 +4,11 @@
     "url": "https://nextcloud.delmundo.info",
     "icon": "https://icons.duckduckgo.com/ip3/nextcloud.delmundo.info.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.22%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "98.22%",
     "time": 608,
     "timeDay": 821,
@@ -28,7 +28,8 @@
       "2026-05-03": 237,
       "2026-05-07": 503,
       "2026-05-13": 178,
-      "2026-05-30": 67
+      "2026-05-30": 67,
+      "2026-07-07": 19
     }
   },
   {
@@ -36,11 +37,11 @@
     "url": "https://immich.delmundo.info/api/server/ping",
     "icon": "https://icons.duckduckgo.com/ip3/immich.delmundo.info.ico",
     "slug": "immich",
-    "status": "up",
+    "status": "down",
     "uptime": "98.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.77%",
     "time": 517,
     "timeDay": 295,
@@ -61,7 +62,8 @@
       "2026-04-17": 150,
       "2026-05-03": 236,
       "2026-05-07": 115,
-      "2026-05-13": 177
+      "2026-05-13": 177,
+      "2026-07-07": 14
     }
   },
   {
@@ -69,12 +71,12 @@
     "url": "https://tv.delmundo.info",
     "icon": "https://icons.duckduckgo.com/ip3/tv.delmundo.info.ico",
     "slug": "jellyfin",
-    "status": "up",
-    "uptime": "91.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "91.81%",
+    "status": "down",
+    "uptime": "91.84%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "91.84%",
     "time": 395,
     "timeDay": 544,
     "timeWeek": 487,
@@ -107,7 +109,8 @@
       "2026-04-17": 150,
       "2026-05-03": 236,
       "2026-05-07": 114,
-      "2026-05-13": 177
+      "2026-05-13": 177,
+      "2026-07-07": 9
     }
   },
   {
@@ -115,12 +118,12 @@
     "url": "http://palworld.delmundo.info:3000/health",
     "icon": "https://icons.duckduckgo.com/ip3/palworld.delmundo.info.ico",
     "slug": "palworld-server",
-    "status": "up",
-    "uptime": "62.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "62.86%",
+    "status": "down",
+    "uptime": "63.01%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "63.01%",
     "time": 401,
     "timeDay": 212,
     "timeWeek": 226,
@@ -205,7 +208,8 @@
       "2026-04-17": 149,
       "2026-05-03": 235,
       "2026-05-13": 177,
-      "2026-05-30": 139
+      "2026-05-30": 139,
+      "2026-07-07": 4
     }
   },
   {
@@ -213,12 +217,12 @@
     "url": "samworld.delmundo.info",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "samworld-minecraft-server",
-    "status": "up",
-    "uptime": "98.37%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.38%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.35%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.38%",
     "time": 63,
     "timeDay": 89,
     "timeWeek": 64,
@@ -231,7 +235,8 @@
       "2026-05-30": 985,
       "2026-05-29": 368,
       "2026-06-27": 462,
-      "2026-06-28": 260
+      "2026-06-28": 260,
+      "2026-07-07": 0
     }
   }
 ]

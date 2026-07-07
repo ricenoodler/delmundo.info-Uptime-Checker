@@ -1,7 +1,7 @@
 url: http://palworld.delmundo.info:3000/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-07-07T20:32:17.999Z
+status: up
+code: 200
+responseTime: 300
+lastUpdated: 2026-07-07T21:41:50.799Z
 startTime: 2026-01-03T19:22:03.686Z
 generator: Upptime <https://github.com/upptime/upptime>
